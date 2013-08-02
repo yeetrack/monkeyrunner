@@ -1,0 +1,1 @@
+for /F "tokens=*" %%i in ('dir "d:/python/src" /S /B') do monkeyrunner %%i
